@@ -11,7 +11,7 @@ We can create our account level alarm by first initializing our template.
 
 Once our template is initialized we can apply our template to our AWS account.
 
-`terraform apply , `
+`terraform apply . `
 
 TODOs
 
