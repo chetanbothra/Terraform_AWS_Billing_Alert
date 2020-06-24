@@ -12,3 +12,8 @@ We can create our account level alarm by first initializing our template.
 Once our template is initialized we can apply our template to our AWS account.
 
 `terraform apply , `
+
+TODOs
+
+1. Get AWS Chatbox alert
+2. Use AWS Profile instead of adding it on variable.tf file 
